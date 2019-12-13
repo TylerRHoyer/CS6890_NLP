@@ -27,4 +27,4 @@ This script actually trains the neural network, after doing yet more preprocessi
 chart_gen.py
 This script creates the illustration graph seen in the poster to describe the goal of the project.
 
-I can't quite recall, but I believe words_3.txt is the results of process.py and word_3_filtered.txt is the results of filter.lua. I've also included the times.pck and sentiments.pck from sentiments.py and the avg.pck and std.pck from train.py. Finally, I've included some of the graphs for your viewing pleasure. :)
+word_3_filtered.txt is the results of filter.lua (the results of process.py were too big to upload). I've also included the times.pck from sentiments.py (sentiments.pck was also too big) and the avg.pck and std.pck from train.py. Finally, I've included some of the graphs for your viewing pleasure. :)
